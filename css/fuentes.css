@@ -1,0 +1,33 @@
+@font-face{font-family: "objectsans-heavy";src: url(font-folder/objectsans/objectsans-heavy.otf);}
+
+#objectsans-heavy{font-family: "objectsans-heavy";}
+
+
+
+@font-face{font-family: "objectsans-regular";src: url(font-folder/objectsans/objectsans-regular.otf);}
+
+#objectsans-regular{font-family: "objectsans-regular";}
+
+
+
+@font-face{font-family: "noto-bold";src: url(font-folder/noto/noto-bold.ttf);}
+
+#noto-bold{font-family: "noto-bold";}
+
+
+
+@font-face{font-family: "noto-regular";src: url(font-folder/noto/noto-regular.ttf);}
+
+#noto-regular{font-family: "noto-regular";}
+
+
+
+@font-face{font-family: "spartan";src: url(font-folder/spartan.ttf);}
+
+#spartan{font-family: "spartan";}
+
+
+
+@font-face{font-family: "anton";src: url(font-folder/anton.ttf);}
+
+#anton{font-family: "anton";}
